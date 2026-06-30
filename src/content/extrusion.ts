@@ -2,7 +2,7 @@
   name: "Vighnaharta Enterprise",
   shortName: "Vighnaharta",
   tagline: "Reliable extrusion machinery, spares and process support.",
-  phone: "+91 12345 67890",
+  phone: "+91 92095 60610",
   email: "hello@vighnahartaenterprise.com",
   address: "Pune, Maharashtra, India",
 };
@@ -106,3 +106,4 @@ export const motto =
 
 export const supportPromise =
   "If you are facing any issues or looking to modify your plant, please ask us. We are here to provide the perfect solution.";
+
